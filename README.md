@@ -11,3 +11,4 @@ The structure query file 'parch-and-posey.sql' has 16430 lines of code to genera
 By creating a PostgreSQL database in your local computer or in the cloud, you can experiment with different types of SQL command. This is a good source to improve your SQL skills (https://www.udacity.com/course/sql-for-data-analysis--cd0023)
 
 ## 2. Advanced SQL with Python <a id = 'other'></a>
+We use Python to access to the SQL database and perform various advanced queries from Python instead of working directly in the database.
